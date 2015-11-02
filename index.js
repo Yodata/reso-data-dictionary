@@ -649,7 +649,7 @@ $data.Entity.extend("reso.Contact", {
   NameSuffix: { type: "string", maxLength: 10 },
   FullName: { type: "string", maxLength: 150 },
   Nickname: { type: "string", maxLength: 50 },
-  ReferedBy: { type: "string", maxLength: 150 },
+  ReferredBy: { type: "string", maxLength: 150 },
   JobTitle: { type: "string", maxLength: 50 },
   Notes: { type: "string", maxLength: 1024 },
   HomeAddress1: { type: "string", maxLength: 50 },
